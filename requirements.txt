@@ -1,4 +1,5 @@
 Flask==2.2.2
+Werkzeug
 requests
 pandas
 numpy
