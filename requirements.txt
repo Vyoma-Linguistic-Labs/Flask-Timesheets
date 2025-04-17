@@ -1,10 +1,9 @@
-Flask==2.2.2
-Werkzeug
-requests
+Flask==2.2.5
+Werkzeug==2.2.3
 pandas
 numpy
+requests
 pytz
+openpyxl
 xlsxwriter
-datetime
-pillow
 gunicorn
