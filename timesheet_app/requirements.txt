@@ -1,0 +1,8 @@
+Flask==2.2.2
+requests
+pandas
+numpy
+pytz
+xlsxwriter
+datetime
+pillow
